@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+#Environment Variables
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# dotenv environment variable file
+.env
+
+# MacOS
+.DS_Store
